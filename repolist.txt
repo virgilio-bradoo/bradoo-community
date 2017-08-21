@@ -1,5 +1,3 @@
-https://github.com/OCA/server-tools.git /home/odoo/opt/server-tools -b 10.0 --depth 1
+https://github.com/BradooTech/trustcode-addons.git /home/odoo/opt/truscode -b 10.0 --depth 1
 https://github.com/BradooTech/odoo-brasil.git /home/odoo/opt/odoo-brasil -b 10.0 --depth 1
-https://github.com/Trust-Code/odoo-eam.git /home/odoo/opt/odoo-eam -b 10.0 --depth 1
-https://github.com/Trust-Code/trustcode-addons.git /home/odoo/opt/truscode -b 10.0 --depth 1
-git@github.com:BradooDev/Enterprise /home/odoo/opt/enterprise -b 10.0 --depth 1    
+git@github.com:virgilio/bradoo_utils /home/odoo/opt/bradoo-utils -b master --depth 1
